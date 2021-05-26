@@ -1,0 +1,17 @@
+body {
+  min-height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+
+#Project {
+  padding: 2rem;
+  background-color: #e2edff;
+}
+
+#Kontak {
+  padding: 2rem;
+}
